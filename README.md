@@ -5,6 +5,7 @@ Fantom is the fastest chain for a reason — sometimes transactions literally co
 This script catches those magical "ghost moves":  
 big FTM transfers (10+ FTM) that appear out of thin air with **zero gas price**.
 
+
 What you're seeing:
 - SpookySwap internal accounting tricks
 - Pre-signed meta-transactions
