@@ -2,6 +2,7 @@
 
 Fantom is the fastest chain for a reason — sometimes transactions literally cost **0 gas**.
 
+
 This script catches those magical "ghost moves":  
 big FTM transfers (10+ FTM) that appear out of thin air with **zero gas price**.
 
